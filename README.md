@@ -1,6 +1,6 @@
 # SARL1BMatch
 
-A docker of our proposed multi-view SAR image matching method published at IEEE TGRS 2022. It can be downloaded from this link:
+An implementation of our proposed multi-view SAR image matching method published at IEEE TGRS 2022. It can be downloaded from this link: https://pan.baidu.com/s/1RYw6QU4-MPnzwtwI3pJtXw?pwd=blpv.
 
 # How to use 
 1. Load this docker in Ubuntu 18.04. (sudo docker load -i xymtest.tar.gz)
@@ -22,10 +22,10 @@ A docker of our proposed multi-view SAR image matching method published at IEEE 
 ![image](https://github.com/xym2009/SARL1BMatch/assets/19380078/40ebb3f0-d6be-4594-a7a8-c9b6d55c930e)
 
 # Notice
-This docker is only suitable for GaoFen-3 SLC images (A C-band SAR satellite of China), since we have to read the metaXML of SAR images. We only tested GF-3 SAR images with spotlight and strip modes.
+This docker is only suitable for GaoFen-3 SLC images (A C-band SAR satellite of China), since we have to read the meta info of SAR images. We only tested GF-3 SAR images with spotlight and strip modes.
 
 # Contact Us
-If you have any questions on this method or this docker, please contact Yuming Xiang (z199208081010@163.com/xiangym@aircas.ac.cn).
+If you have any questions about this method, please contact Yuming Xiang (z199208081010@163.com/xiangym@aircas.ac.cn).
 
 For more details, please refer to the corresponding paper: "A Geometry-Aware Registration Algorithm for Multiview High-Resolution SAR Images" (https://ieeexplore.ieee.org/abstract/document/9882139).
 
