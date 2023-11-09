@@ -1,6 +1,6 @@
 # SARL1BMatch
 
-A docker of our proposed multi-view SAR image matching method published at IEEE TGRS 2022. It can be downloaded from this link: https://pan.baidu.com/s/1mp7RK6IxCsdPLgDD9Ws6cg?pwd=ntev 
+A docker of our proposed multi-view SAR image matching method published at IEEE TGRS 2022. It can be downloaded from this link:
 
 # How to use 
 1. Load this docker in Ubuntu 18.04. (sudo docker load -i xymtest.tar.gz)
